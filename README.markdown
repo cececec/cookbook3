@@ -5,23 +5,22 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: 2.0.0
 
-* System dependencies
+* Date: Sep.8 2013
 
-* Configuration
+* By: Ganqin
 
-* Database creation
+This is the first application wrote by Rails. And I feel great and facinated by it. Many thanks to Dr.Grenger and my classmates. 
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+
+
+
+
 
 
 Please feel free to use a different markup language if you do not plan to run
